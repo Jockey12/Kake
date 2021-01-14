@@ -1,7 +1,9 @@
-Welcome to Kake.
+# Website is https://jockey12.github.io/Kake/ #
+
+#Welcome to Kake.
 
 WIP
-#
+
 
 Kake
 
@@ -11,4 +13,4 @@ Updated: functiontet.cpp, include_files.h
 #
 2021.1.13 9:47PM - Fixed functiontet.cpp
 
-# Website is https://jockey12.github.io/Kake/ #
+
