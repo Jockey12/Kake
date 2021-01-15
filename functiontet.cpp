@@ -26,13 +26,13 @@ void textAnswer()
         cout << "Do you want to start textAnswer(Y/N)" << endl;
         cin >> choice;
         if(choice =='N' || choice =='n'){
+        cout << "Good bye then :(\n";
             break;
-
-        if(choice =='Y' || choice =='y'){
+        if(choice !='Y' || choice !='y'){
             cout << "Hello welcome to textAnswer\n";
-            cin >> answert;
             cout << "To begin press Y. " << endl;            
-            break;
+            cin >> answert;
+            cout << "test\n";
         }
         
 
